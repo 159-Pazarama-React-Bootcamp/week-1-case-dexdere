@@ -1,7 +1,7 @@
 ﻿# Check Credit Card
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ca9aa699-276e-4ec0-b2e9-0b1fb913a38a/deploy-status)](https://app.netlify.com/sites/flamboyant-davinci-446fbe/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca9aa699-276e-4ec0-b2e9-0b1fb913a38a/deploy-status)](https://app.netlify.com/sites/checkcreditcard/deploys)
 <br>
-[Live Demo](https://flamboyant-davinci-446fbe.netlify.app/)
+[Live Demo](https://checkcreditcard.netlify.app/)
 
 
 Selamlar arkadaşlar ☺️ <br/><br/> 
